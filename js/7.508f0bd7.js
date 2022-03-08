@@ -47,7 +47,7 @@ var staticRenderFns = []
 // EXTERNAL MODULE: ./node_modules/@quasar/app/node_modules/vue-loader/lib/runtime/componentNormalizer.js
 var componentNormalizer = __webpack_require__("42e1");
 
-// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js + 1 modules
+// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js
 var QBtn = __webpack_require__("9c40");
 
 // EXTERNAL MODULE: ./node_modules/@quasar/app/lib/webpack/runtime.auto-import.js

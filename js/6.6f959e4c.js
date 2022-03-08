@@ -96,7 +96,7 @@ var QHeader = __webpack_require__("e359");
 // EXTERNAL MODULE: ./node_modules/quasar/src/components/bar/QBar.js
 var QBar = __webpack_require__("d847");
 
-// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js + 1 modules
+// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js
 var QBtn = __webpack_require__("9c40");
 
 // EXTERNAL MODULE: ./node_modules/quasar/src/components/toolbar/QToolbarTitle.js

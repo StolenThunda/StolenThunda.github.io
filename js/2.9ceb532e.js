@@ -2751,13 +2751,13 @@ var QToolbar = __webpack_require__("65c6");
 // EXTERNAL MODULE: ./node_modules/quasar/src/components/toolbar/QToolbarTitle.js
 var QToolbarTitle = __webpack_require__("6ac5");
 
-// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js + 1 modules
+// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js
 var QBtn = __webpack_require__("9c40");
 
 // EXTERNAL MODULE: ./node_modules/quasar/src/components/space/QSpace.js
 var QSpace = __webpack_require__("2c91");
 
-// EXTERNAL MODULE: ./node_modules/quasar/src/components/select/QSelect.js + 7 modules
+// EXTERNAL MODULE: ./node_modules/quasar/src/components/select/QSelect.js + 1 modules
 var QSelect = __webpack_require__("ddd8");
 
 // EXTERNAL MODULE: ./node_modules/quasar/src/components/icon/QIcon.js

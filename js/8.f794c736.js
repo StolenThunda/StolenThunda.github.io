@@ -63,7 +63,7 @@ var componentNormalizer = __webpack_require__("42e1");
 // EXTERNAL MODULE: ./node_modules/quasar/src/components/page/QPage.js
 var QPage = __webpack_require__("9989");
 
-// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js + 1 modules
+// EXTERNAL MODULE: ./node_modules/quasar/src/components/btn/QBtn.js
 var QBtn = __webpack_require__("9c40");
 
 // EXTERNAL MODULE: ./node_modules/@quasar/app/lib/webpack/runtime.auto-import.js
