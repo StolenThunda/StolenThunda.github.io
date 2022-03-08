@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "pull" : "git pull ",
-    "commit": " git commit -am 'updates'",
+    "commit": " git commit -a -m'updates'",
     "push" : " git push",
     "deploy" : "yarn run pull &&  yarn run commit  && yarn run push ",
     "test": "echo \"Error: no test specified\" && exit 1"
