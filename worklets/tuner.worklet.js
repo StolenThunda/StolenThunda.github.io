@@ -1,5 +1,5 @@
 
-console.log("Registering processor");
+// console.log("Registering processor");
 class TunerProcessor extends AudioWorkletProcessor {
   // 0. Determine the buffer size (this is the same as the 1st argument of ScriptProcessor)
       bufferSize = 4096
@@ -17,7 +17,6 @@ class TunerProcessor extends AudioWorkletProcessor {
           console.log(event.data);
         };
 
-        this.port.postMessage('Hi!');
       }
 
       initBuffer () {
@@ -39,7 +38,7 @@ class TunerProcessor extends AudioWorkletProcessor {
       process ( inputs, outputs, params ) {
         // Grabbing the 1st channel similar to ScriptProcessorNode
         this.append( inputs[0][0] )
-        if (inputs.length > 0) console.log( inputs )
+        // if (inputs.length > 0) console.log( inputs )
         return true
       }
 
