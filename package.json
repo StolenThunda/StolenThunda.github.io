@@ -9,6 +9,7 @@
     "commit": " git commit -a -m'updates'",
     "push" : " git push",
     "deploy" : "yarn run add  &&  yarn run commit  && yarn run push ",
+    "status": "git status",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
