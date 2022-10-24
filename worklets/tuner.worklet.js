@@ -14,7 +14,7 @@ class TunerProcessor extends AudioWorkletProcessor {
         this.initBuffer()
         this.port.onmessage = (event) => {
           // Handling data from the node.
-          console.log(event.data);
+          // console.log(event.data);
         };
 
       }
